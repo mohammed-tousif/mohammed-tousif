@@ -83,8 +83,8 @@ Responsive dealership website featuring vehicle showcases, financing and insuran
 
 <div align="center">
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-tousif&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-tousif&layout=compact&theme=tokyonight&hide_border=true)
+![Mohammed's GitHub stats](https://github-stats-extended-opal-eight.vercel.app/api?username=mohammed-tousif&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended-opal-eight.vercel.app/api/top-langs/?username=mohammed-tousif&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammed-tousif&theme=tokyonight&hide_border=true)
 
