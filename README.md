@@ -7,6 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-mohammed--tousif-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-tousif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Tousif-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
 [![Email](https://img.shields.io/badge/Email-mdtousif1312%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mdtousif1312@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fawn-phi-84.vercel.app)
 
 </div>
 
@@ -96,6 +97,7 @@ I'm interested in software engineering, full-stack development, AI, and cloud op
 
 - LinkedIn: [mohammed-tousif-malekopp-4370792bb](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
 - Email: [mdtousif1312@gmail.com](mailto:mdtousif1312@gmail.com)
+- Portfolio: [portfolio-fawn-phi-84.vercel.app](https://portfolio-fawn-phi-84.vercel.app)
 - GitHub: [mohammed-tousif](https://github.com/mohammed-tousif)
 
 <div align="center">
