@@ -14,10 +14,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing a **B.E. in Computer Science and Engineering** at Jain College of Engineering and Technology, Hubballi — expected 2027.
-- 🚀 I build and deploy **full-stack, real-time, and AI-enabled applications**.
-- 🧠 Currently strengthening my skills in software engineering, cloud technologies, and applied AI.
+- 🚀 I build and deploy **full-stack, real-time applications**, with a growing focus on **DevOps and cloud infrastructure**.
+- 🧠 Currently strengthening my skills in **DevOps practices (Docker, CI/CD with GitHub Actions)** and **Azure cloud services**.
 - 🤝 Open to internships, collaborative projects, hackathons, and open-source opportunities.
-- 💬 Ask me about **React, Node.js, Firebase, Python, Docker, and practical AI applications**.
+- 💬 Ask me about **React, Node.js, Python, Docker, GitHub Actions, and Azure**.
 - 📍 Based in Hubballi, Karnataka, India.
 
 ## 🧰 Tech Stack
