@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohammed Tousif 👋
 
-### Computer Science Engineering Student · Full-Stack & AI Developer
+### Computer Science Engineering Student · Software Engineer | Full-Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohammed--tousif-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-tousif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Tousif-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
