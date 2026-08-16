@@ -94,7 +94,7 @@ Responsive dealership website featuring vehicle showcases, financing and insuran
 
 ## 📫 Let's Connect
 
-I'm interested in software engineering, full-stack development, AI, and cloud opportunities.
+I'm interested in software engineering, full-stack development, DevOps, and cloud opportunities.
 
 - LinkedIn: [mohammed-tousif-malekopp-4370792bb](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
 - Email: [mdtousif1312@gmail.com](mailto:mdtousif1312@gmail.com)
