@@ -1,108 +1,151 @@
 <div align="center">
 
-# Hi, I'm Mohammed Tousif 👋
+<img src="./assets/hero-banner.svg" alt="Mohammed Tousif banner" width="100%"/>
 
-### Computer Science Engineering Student · Software Engineer | Full-Stack Developer
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohammed--tousif-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-tousif)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Tousif-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
-[![Email](https://img.shields.io/badge/Email-mdtousif1312%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mdtousif1312@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fawn-phi-84.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-mohammed--tousif-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/mohammed-tousif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Tousif-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
+[![Email](https://img.shields.io/badge/Email-mdtousif1312%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:mdtousif1312@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00FF41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](https://portfolio-fawn-phi-84.vercel.app)
 
 </div>
 
-## 👨‍💻 About Me
+<br/>
 
-- 🎓 Pursuing a **B.E. in Computer Science and Engineering** at Jain College of Engineering and Technology, Hubballi — expected 2027.
-- 🚀 I build and deploy **full-stack, real-time applications**, with a growing focus on **DevOps and cloud infrastructure**.
-- 🧠 Currently strengthening my skills in **DevOps practices (Docker, CI/CD with GitHub Actions)** and **Azure cloud services**.
-- 🤝 Open to internships, collaborative projects, hackathons, and open-source opportunities.
-- 💬 Ask me about **React, Node.js, Python, Docker, GitHub Actions, and Azure**.
-- 📍 Based in Hubballi, Karnataka, India.
+## `01 // WHOAMI`
 
-## 🧰 Tech Stack
+```js
+const tousif = {
+  location: "Hubballi, Karnataka, India",
+  role: "Software Engineer . Full-Stack Developer",
+  focus: ["DevOps practices", "CI/CD pipelines", "Azure cloud infrastructure"],
+  education: "B.E. Computer Science and Engineering, Jain CET Hubballi (2027)",
+  currentlyBuilding: "full-stack, real-time applications",
+  currentlyLearning: ["Docker", "GitHub Actions", "Microsoft Azure"],
+  openTo: ["internships", "collaborations", "hackathons", "open-source"],
+  askMeAbout: ["React", "Node.js", "Python", "Docker", "Azure"],
+};
+```
 
-### Languages
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## `02 // TECH_STACK`
 
-### Frontend & Backend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Languages**
 
-### DevOps, Cloud & Tools
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Frontend and Backend**
 
-## 🚀 Featured Projects
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF41)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=00FF41)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00FF41)
 
-### [Her Shield — Women's Safety Platform](https://github.com/mohammed-tousif/AI_hershield)
+**DevOps, Cloud and Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF41)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=00FF41)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-000000?style=flat-square&logo=microsoftazure&logoColor=00FF41)
+![GCP](https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF41)
+
+</div>
+
+<br/>
+
+## `03 // FEATURED_PROJECTS`
+
+#### `[ 01 ]` Her Shield -- Women's Safety Platform
 
 Full-stack safety platform with SOS communication, live location tracking, Firestore persistence, real-time rooms, and email/SMS integration.
 
-**Stack:** JavaScript · Node.js · Express · Firebase · Socket.IO · Google Maps  
-[Live Demo](https://hershield-web.web.app) · [Source Code](https://github.com/mohammed-tousif/AI_hershield)
+`JavaScript` `Node.js` `Express` `Firebase` `Socket.IO` `Google Maps`
 
-### [Kaksha — Smart Attendance Manager](https://github.com/mohammed-tousif/Kaksha-attendance-manager-)
+[Live Demo](https://hershield-web.web.app) -- [Source Code](https://github.com/mohammed-tousif/AI_hershield)
+
+---
+
+#### `[ 02 ]` Kaksha -- Smart Attendance Manager
 
 Multi-tenant attendance and leave-management platform with five-level role-based access, subject analytics, and automated alerts.
 
-**Stack:** React · Node.js · Express · Firebase · Docker  
-[Live Demo](https://kaksha-attendance-manager.onrender.com) · [Source Code](https://github.com/mohammed-tousif/Kaksha-attendance-manager-)
+`React` `Node.js` `Express` `Firebase` `Docker`
 
-### [PanicSense AI — Voice Distress Pattern Detector](https://github.com/mohammed-tousif/ML-panic_voice_detector)
+[Live Demo](https://kaksha-attendance-manager.onrender.com) -- [Source Code](https://github.com/mohammed-tousif/Kaksha-attendance-manager-)
+
+---
+
+#### `[ 03 ]` PanicSense AI -- Voice Distress Pattern Detector
 
 Audio ML application using 40 MFCC features and a Random Forest classifier, with browser recording, file uploads, and speaker-separated evaluation.
 
-**Stack:** Python · Flask · librosa · scikit-learn  
-[Live Demo](https://panic-voice-detector.vercel.app) · [Source Code](https://github.com/mohammed-tousif/ML-panic_voice_detector)
+`Python` `Flask` `librosa` `scikit-learn`
 
-### [M.I. Auto Links — Automotive Business Website](https://github.com/mohammed-tousif/MI_AUTO_LINK)
+[Live Demo](https://panic-voice-detector.vercel.app) -- [Source Code](https://github.com/mohammed-tousif/ML-panic_voice_detector)
+
+---
+
+#### `[ 04 ]` M.I. Auto Links -- Automotive Business Website
 
 Responsive dealership website featuring vehicle showcases, financing and insurance information, WhatsApp enquiries, animations, and reduced-motion accessibility.
 
-**Stack:** HTML · CSS · JavaScript · SVG  
-[Live Demo](https://mi-auto-link.vercel.app) · [Source Code](https://github.com/mohammed-tousif/MI_AUTO_LINK)
+`HTML` `CSS` `JavaScript` `SVG`
 
-## 📊 GitHub Activity
+[Live Demo](https://mi-auto-link.vercel.app) -- [Source Code](https://github.com/mohammed-tousif/MI_AUTO_LINK)
+
+<br/>
+
+## `04 // GITHUB_ACTIVITY`
 
 <div align="center">
 
-![Mohammed's GitHub stats](https://github-stats-extended-opal-eight.vercel.app/api?username=mohammed-tousif&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-stats-extended-opal-eight.vercel.app/api/top-langs/?username=mohammed-tousif&layout=compact&theme=tokyonight&hide_border=true)
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammed-tousif&theme=tokyonight&hide_border=true)
+<br/><br/>
+
+<img src="https://github-stats-extended-opal-eight.vercel.app/api?username=mohammed-tousif&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub stats" height="165"/>
+<img src="https://github-stats-extended-opal-eight.vercel.app/api/top-langs/?username=mohammed-tousif&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top languages" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mohammed-tousif&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak"/>
 
 </div>
 
-## 📫 Let's Connect
+<br/>
 
-I'm interested in software engineering, full-stack development, DevOps, and cloud opportunities.
+## `05 // CONNECT`
 
-- LinkedIn: [mohammed-tousif-malekopp-4370792bb](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
-- Email: [mdtousif1312@gmail.com](mailto:mdtousif1312@gmail.com)
-- Portfolio: [portfolio-fawn-phi-84.vercel.app](https://portfolio-fawn-phi-84.vercel.app)
-- GitHub: [mohammed-tousif](https://github.com/mohammed-tousif)
+I'm interested in software engineering, full-stack development, DevOps, and cloud opportunities. Reach out, I usually reply fast.
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
+[![Email](https://img.shields.io/badge/Send_an_Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:mdtousif1312@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](https://portfolio-fawn-phi-84.vercel.app)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003311,100:00FF41&height=100&section=footer"/>
+
+<div align="center">
+
+<sub>thanks for stopping by</sub>
 
 </div>
