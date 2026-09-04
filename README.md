@@ -117,6 +117,9 @@ Responsive dealership website featuring vehicle showcases, financing and insuran
 
 <br/><br/>
 
+<img src="./assets/snake.svg" alt="snake contribution graph" width="100%"/>
+<br/><br/>
+
 <img src="https://github-stats-extended-opal-eight.vercel.app/api?username=mohammed-tousif&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub stats" height="165"/>
 <img src="https://github-stats-extended-opal-eight.vercel.app/api/top-langs/?username=mohammed-tousif&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top languages" height="165"/>
 
