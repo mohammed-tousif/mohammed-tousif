@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Tousif-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/mohammed-tousif-malekopp-4370792bb)
 [![Email](https://img.shields.io/badge/Email-mdtousif1312%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:mdtousif1312@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00FF41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](https://portfolio-fawn-phi-84.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mohammed--tousif-00FF41?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=000000)](https://leetcode.com/u/mohammed-tousif/)
 
 </div>
 
@@ -126,6 +127,10 @@ Responsive dealership website featuring vehicle showcases, financing and insuran
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=mohammed-tousif&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak"/>
+
+<br/>
+
+<a href="https://leetcode.com/u/mohammed-tousif/"><img src="https://leetcard.jacoblin.cool/mohammed-tousif?theme=dark&font=Roboto&border=0&radius=8&ext=heatmap" alt="LeetCode stats"/></a>
 
 </div>
 
